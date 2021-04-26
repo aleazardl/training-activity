@@ -1,2 +1,6 @@
-@import 'generic/_normalize.scss';
+@import 'settings/_variables.scss';
 @import 'generic/_reset.scss';
+@import 'generic/_normalize.scss';
+@import 'elements/_global.scss';
+@import 'components/_style.scss';
+
